@@ -5,7 +5,7 @@ Welcome to my personal portfolio website repository! This project showcases my s
 
 ## 🖥️ Live Demo
 
-Check out the live version of my portfolio [](#).
+- **Live Link:** Check out the live version of my portfolio [HERE](https://ankur-chakraborty.github.io/my-portfolio/).
 
 ## 🛠️ Tech Stack
 
@@ -28,6 +28,14 @@ The project is organized into the following main files and folders:
 - **Education Timeline:** Highlights my educational background with a visual timeline.
 - **Contact Form:** Allows visitors to get in touch with me.
 
-## 🚀 Getting Started
+## 🙌 Acknowledgements
 
-- **Live Link:** https://ankur-chakraborty.github.io/my-portfolio/
+- Inspiration for the design and layout from various online portfolios.
+- Icons and graphics from [FontAwesome](https://fontawesome.com/)
+
+
+## 📫 Contact
+
+Feel free to reach out to me through the contact form on my website or via email at [ankurchakraborty66@gmail.com](mailto:ankurchakraborty66@gmail.com).
+
+ 
