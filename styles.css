@@ -47,6 +47,11 @@
     
 }
 
+a .nav-logo .logo-text{
+  color: var(--neon);
+
+}
+
 .logo{
     width:2.5rem;
     user-select: none;
