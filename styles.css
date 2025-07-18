@@ -1288,10 +1288,12 @@ text-transform: capitalize;
 }
 
 .contactus-form-container{
-margin-top:25px;
-display:flex;
-align-items: baseline;
-justify-content: center;
+  margin-top:25px;
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 400px;
+  gap: 2rem; 
 }
 
 .contact-text{
