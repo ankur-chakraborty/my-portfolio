@@ -1290,7 +1290,7 @@ text-transform: capitalize;
 .contactus-form-container{
 margin-top:25px;
 display:flex;
-align-items: baseline;
+align-items: center;
 justify-content: center;
 }
 
